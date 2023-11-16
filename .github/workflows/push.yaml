@@ -1,3 +1,5 @@
+name: Merging PoC
+
 on:
   merge_group:
   push:
